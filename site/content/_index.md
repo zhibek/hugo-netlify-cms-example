@@ -1,9 +1,9 @@
 ---
-title: Homepage Title
+title: Homepage Okappy Title
 subtitle: Subtitle for the homepage...
 image: /img/about-direct-sourcing.jpg
 blurb:
-  heading: Some blurb here...
+  heading: Some blurb more here...
   text: >-
     Lorum ipsum is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -31,7 +31,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Our special values
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
